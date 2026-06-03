@@ -87,7 +87,7 @@ function highlightHover() {
       <ul
         class="mb-4 ml-8 list-disc text-xl text-black-primary dark:text-white-primary"
       >
-        <li>An automatated moderation bot for GroupMe</li>
+        <li>An automated moderation bot for GroupMe</li>
 
         <li>
           A video game
